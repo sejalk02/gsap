@@ -61,16 +61,3 @@ span.forEach((el) =>{
 
 
 
-// const span = document.querySelectorAll("span");
-
-// gsap.fromTo("svg",  { rotate: 0 }, { rotate: 180, duration: 1, repeat: -1 });
-
-// span.addEventListener;
-
-// Array.from(animate).forEach((el)=>{
-//     el.addEventListener('mouseenter' , () => {
-//              gsap.fromTo(el, { rotate: 0 }, { rotateX: 380, duration: 1 });
-//     });
-// });                   
-
-// gsap.fromTo(".I", { rotate: 180 }, { rotate: 380 , duration: 1, repeat: 2 });
